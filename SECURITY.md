@@ -1,2 +1,2 @@
 # Security Policy
-If you find a security vulnerability, please do not open an issue. Instead, email us directly at security@example.com.
+If you find a security vulnerability, please do open an issue and I will look into the concern
